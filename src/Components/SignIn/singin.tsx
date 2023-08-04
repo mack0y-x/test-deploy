@@ -1,6 +1,5 @@
 import './signin.css';
 import topImage from "../../images/egis-logo.png";
-import { Link, Outlet } from 'react-router-dom';
 
 const SignIn: React.FC = () => {
     return (
